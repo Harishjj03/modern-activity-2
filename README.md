@@ -30,3 +30,5 @@ function Student(props) {
 
 export default Student;
 ```
+## output
+![alt text](<Screenshot 2026-03-10 132851.png>)
